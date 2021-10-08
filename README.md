@@ -38,3 +38,6 @@ Contact: ugonfor@gmail.com
 | 6차시 | Network Fundamental   | 네트워크 모델 및 TCP/IP Layer에 대해 배운다. 패킷 스니핑 툴을 직접 만들어본다. |
 | 7차시 | Network Security      | 대표적인 네트워크 공격 중 하나인 ARP-spoofing에 대해 배우고 실습을 해본다. |
 
+
+
+https://korea-ac-kr.zoom.us/j/83870349641?pwd=Zzc0RlFDOFpXSHJBb0ZLZUlGNTRkQT09
