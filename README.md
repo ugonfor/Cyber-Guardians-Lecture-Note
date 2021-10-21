@@ -28,7 +28,7 @@ zoom : https://korea-ac-kr.zoom.us/j/83870349641?pwd=Zzc0RlFDOFpXSHJBb0ZLZUlGNTR
 | 주차  | 주제                  | 내용                                                         |
 | ----- | --------------------- | ------------------------------------------------------------ |
 |  1주차 | IDA Pro Fundamental  | IDAPython을 이용하여, labyrevnt 플래그 출력 + manuscrypt 주석 자동화 |
-
+|  2주차 | Linux Fundamental  | 주어진 SimpleShell 스켈레톤 코드에 mv, ls, SIGINT handler 기능 추가하기  |
 
 
 
