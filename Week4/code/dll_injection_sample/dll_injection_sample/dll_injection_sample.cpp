@@ -17,11 +17,12 @@ bool dll_injection(
     __in const std::wstring& dll_name
     );
 
-int main()
+
+int wmain(int argc, wchar_t* argv[])
 {
     DWORD pid = 0;
     std::wstring process_name = L"notepad.exe";
-    std::wstring dll_name = L"C:\\my_dll.dll";
+    std::wstring dll_name = argv[1];
 
     if (process_name_to_pid(pid, process_name)) {
         dll_injection(pid, dll_name);
