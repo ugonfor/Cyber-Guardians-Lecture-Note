@@ -4,7 +4,7 @@
 #include "stdafx.h"
 #include <Windows.h>
 #include <TlHelp32.h>
-
+#include <iostream>
 #include <string>
 
 bool process_name_to_pid(
