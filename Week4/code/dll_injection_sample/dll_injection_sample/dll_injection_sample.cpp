@@ -20,8 +20,9 @@ bool dll_injection(
 
 int wmain(int argc, wchar_t* argv[])
 {
+    std::cout << "usage: dll_injection_sample.exe <my_dll> <target process>\n";
     DWORD pid = 0;
-    std::wstring process_name = L"notepad.exe";
+    std::wstring process_name = argv[2];
     std::wstring dll_name = argv[1];
 
     if (process_name_to_pid(pid, process_name)) {
