@@ -35,7 +35,7 @@ void printError( TCHAR* msg )
 int main(int argc, char const *argv[])
 {
     if(argc != 3){
-        printf("usage: %s <dll name> <exe name> <is64>\n", argv[0]);
+        printf("usage: %s <dll name> <exe name>\n", argv[0]);
     }
 
     string dll = string(argv[1]);
