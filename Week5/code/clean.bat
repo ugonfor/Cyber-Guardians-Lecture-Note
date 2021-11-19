@@ -1,2 +1,2 @@
-Remove-Item mydll.dll
-Remove-Item inject.exe
+#Remove-Item ./mydll.dll
+#Remove-Item ./inject.exe
