@@ -1,2 +1,2 @@
-g++ -shared -o mydll.dll mydll.cpp
-g++ -o inject inject.cpp
+g++ -shared -o mydll.dll mydll.cpp -static
+g++ -o inject inject.cpp -static

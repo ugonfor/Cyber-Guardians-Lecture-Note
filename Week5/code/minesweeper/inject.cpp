@@ -36,6 +36,7 @@ int main(int argc, char const *argv[])
 {
     if(argc != 3){
         printf("usage: %s <dll name> <exe name>\n", argv[0]);
+        return 1;
     }
 
     string dll = string(argv[1]);
