@@ -66,6 +66,7 @@ int main(int argc, char const *argv[])
         return 1;
     }
 
+    // bind option change
 	int optval = 1;
 	int res = setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR, &optval, sizeof(optval));
 	if (res == -1) {
