@@ -31,6 +31,7 @@ zoom : https://korea-ac-kr.zoom.us/j/83870349641?pwd=Zzc0RlFDOFpXSHJBb0ZLZUlGNTR
 | 3주차 | Reversing Fundamental | Flare-on Garbage, Insomnihack kaboom! 문제 풀고, writeup 제출 |
 | 4주차 | Reversing Advanced | 지뢰찾기 크랙 ( ! binary issue 존재 ) |
 | 5주차 | Malware Analysis | - |
+| 6주차 | Network Fundamental | 소켓 프로그래밍(relay 서버), pcap 프로그래밍(패킷 캡쳐 및 파서) |
 
 
 
@@ -40,6 +41,7 @@ zoom : https://korea-ac-kr.zoom.us/j/83870349641?pwd=Zzc0RlFDOFpXSHJBb0ZLZUlGNTR
 
 * Week4 Binary가 제대로 실행되지 않는 이슈가 존재하네요... (문제 코드 다 삭제했습니다.)
   * DLL injection 시 x32/ x64 issue 였음.
+  * Week5 에 오류 정정 바이너리 추가
 
 
 
